@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "_Sepeda_Gunung_Polygon_Xtrada_50_27_5_Inci.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
